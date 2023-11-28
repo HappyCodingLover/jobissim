@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "788237935442",
+    "project_id": "jobissim-mobile",
+    "storage_bucket": "jobissim-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788237935442:android:fa868d71de7bc8bdbc508b",
+        "android_client_info": {
+          "package_name": "com.jobissim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788237935442-7ju3sneh44elkg4586l3flat7tr9phqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jobissim",
+            "certificate_hash": "874cf64abd63dc22638aa264c71d8867e6a0f911"
+          }
+        },
+        {
+          "client_id": "788237935442-au7nsieel2k2ufar4ncvso1clcnlp9qe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jobissim",
+            "certificate_hash": "6c501266492583cdc8cf20b9d6da11b8d5ea34bd"
+          }
+        },
+        {
+          "client_id": "788237935442-lbt7hgpha6nlou0dg7da5ga92eo26m4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jobissim",
+            "certificate_hash": "40523e1d3877d8e612d74f52a6857c1d86df05b8"
+          }
+        },
+        {
+          "client_id": "788237935442-jlu52hk4oqo52ljs23vgl56h2redcin1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtPmaZTZxgrPmNLUxFIbs5UZOTUxzvgpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788237935442-jlu52hk4oqo52ljs23vgl56h2redcin1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "788237935442-9n3hg7r8uhemkqt1c9nbjueqmgem86kt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jobissim"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
